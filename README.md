@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0824-goat-latin](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0824-goat-latin) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 ## Queue
 |  |
 | ------- |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
 | ------- |
