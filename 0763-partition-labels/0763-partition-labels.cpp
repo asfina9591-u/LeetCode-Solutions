@@ -11,8 +11,7 @@ public:
         int end=0;
 
         for(int i=0;i<s.size();i++){
-            end=max(end,last[s[i]-'a']);
-
+            end=max(end, last[s[i]-'a']);
             if(i==end){
                 ans.push_back(end-start+1);
                 start=i+1;
