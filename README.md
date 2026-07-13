@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0709-to-lower-case) |
+| [0763-partition-labels](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0824-goat-latin](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0824-goat-latin) |
 | [1768-merge-strings-alternately](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [1768-merge-strings-alternately](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0763-partition-labels) |
 ## Queue
 |  |
 | ------- |
@@ -105,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
+## Greedy
+|  |
+| ------- |
+| [0763-partition-labels](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0763-partition-labels) |
 <!---LeetCode Topics End-->
