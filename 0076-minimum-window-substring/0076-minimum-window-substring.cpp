@@ -2,59 +2,51 @@ class Solution {
 public:
     string minWindow(string s, string t) {
 
-        unordered_map<char, int> need;
-        unordered_map<char, int> window;
+        int m = s.length();
+        int n = t.length();
 
-        // Count characters required from t
-        for (int i = 0; i < t.size(); i++) {
-            need[t[i]]++;
-        }
+        if (n > m)
+            return "";
 
-        int have = 0;
-        int required = need.size();
+        int freq[128] = {};
 
-        int left = 0;
+        for (char ch : t)
+            freq[ch]++;
+
+        int i = 0;
+        int matched = 0;
 
         int minLength = INT_MAX;
         int start = 0;
 
-        // Move right side of the window
-        for (int right = 0; right < s.size(); right++) {
+        for (int j = 0; j < m; j++)
+        {
+            // Add s[j] to window
+            if (freq[s[j]] > 0)
+                matched++;
 
-            window[s[right]]++;
+            freq[s[j]]--;
 
-            // If this character's required frequency is satisfied
-            if (need.count(s[right]) &&
-                window[s[right]] == need[s[right]]) {
-                have++;
-            }
-
-            // Current window contains everything required
-            while (have == required) {
-
-                // Check whether current window is smaller
-                if (right - left + 1 < minLength) {
-                    minLength = right - left + 1;
-                    start = left;
+            // Try to shrink the window
+            while (matched == n)
+            {
+                if (j - i + 1 < minLength)
+                {
+                    minLength = j - i + 1;
+                    start = i;
                 }
 
-                // Remove the left character
-                window[s[left]]--;
+                freq[s[i]]++;
 
-                // If removing it makes the window invalid
-                if (need.count(s[left]) &&
-                    window[s[left]] < need[s[left]]) {
-                    have--;
-                }
+                if (freq[s[i]] > 0)
+                    matched--;
 
-                left++;
+                i++;
             }
         }
 
-        // No valid window found
-        if (minLength == INT_MAX) {
+        if (minLength == INT_MAX)
             return "";
-        }
 
         return s.substr(start, minLength);
     }
