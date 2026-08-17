@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Binary Search
@@ -143,4 +145,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0139-word-break) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
