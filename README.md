@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0290-word-pattern) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0290-word-pattern) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Binary Search
 |  |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0139-word-break](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [1025-divisor-game](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -127,4 +131,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
