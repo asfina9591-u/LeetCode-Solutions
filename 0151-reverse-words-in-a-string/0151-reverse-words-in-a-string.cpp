@@ -5,22 +5,19 @@ public:
         vector<string> words;
         string word;
 
-        // Extract each word
-        while (ss >> word) {
+        //Extract each word
+        while(ss>>word){
             words.push_back(word);
         }
 
-        // Build answer in reverse order
+        //Build the answer in the reverse order
         string ans;
-
-        for (int i = words.size() - 1; i >= 0; i--) {
-            ans += words[i];
-
-            if (i != 0) {
-                ans += " ";
+        for(int i=words.size()-1;i>=0;i--){
+            ans+=words[i];
+            if(i!=0){
+                ans+=" ";
             }
         }
-
         return ans;
     }
 };
