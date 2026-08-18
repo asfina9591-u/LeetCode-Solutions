@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0290-word-pattern) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0151-reverse-words-in-a-string](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
