@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0824-goat-latin](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0824-goat-latin) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Two Pointers
 |  |
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0079-word-search) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
