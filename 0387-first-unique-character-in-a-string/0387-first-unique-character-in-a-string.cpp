@@ -2,16 +2,17 @@ class Solution {
 public:
     int firstUniqChar(string s) {
        
-        int n=s.size();
-        
-       for(int i=0;i<n;i++){
-        for(int j=0;j<n;j++){
-            if(s[i]==s[j] && i!=j){
-                break;
-            }
-            if(j==n-1)
-            return i;
-        }
+       int count[26]={0};
+       
+       //step1: count every chacter
+       for(char c:s){
+        count[c-'a']++;
+       }
+
+       //step2: find the first character occurring once
+       for(int i=0;i<s.length();i++){
+        if(count[s[i]-'a']==1)
+        return i;
        }
        return -1;
     }
