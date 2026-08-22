@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1025-divisor-game](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
