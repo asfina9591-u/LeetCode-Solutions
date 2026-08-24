@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1603-design-parking-system](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 ## String Matching
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 | [1688-count-of-matches-in-tournament](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 ## Greedy
 |  |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
