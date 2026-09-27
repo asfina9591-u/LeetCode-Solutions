@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0705-design-hashset](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0763-partition-labels](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0763-partition-labels) |
 ## Queue
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0705-design-hashset](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0705-design-hashset) |
 ## Binary Search
 |  |
 | ------- |
@@ -175,5 +177,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [1603-design-parking-system](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/1603-design-parking-system) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
