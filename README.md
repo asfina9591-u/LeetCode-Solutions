@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0202-happy-number](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [1025-divisor-game](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -208,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-print-zero-even-odd](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/1116-print-zero-even-odd) |
 | [1117-building-h2o](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/1117-building-h2o) |
 | [1195-fizz-buzz-multithreaded](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/1195-fizz-buzz-multithreaded) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
