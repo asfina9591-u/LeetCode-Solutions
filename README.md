@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0139-word-break) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0041-first-missing-positive](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/asfina9591-u/LeetCode-Solutions/tree/master/0079-word-search) |
